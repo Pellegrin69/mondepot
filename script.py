@@ -13,3 +13,10 @@ elif valeur == "n":
     print("qu'est-ce qui va pas bro ?")
 else:
     print("réponds bro")
+
+print("Quel est ton chiffre pref ?")
+chiffre = int(input())
+if chiffre != 3:
+    print("m'en fous")
+else :
+    print("MAIS NON COMME MOI")
