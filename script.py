@@ -1,4 +1,4 @@
-titre = "Le Pedro national"
+titre = "Le Pierre national"
 message = "J'apporte la modification"
 print(titre, message)
 a = 2
