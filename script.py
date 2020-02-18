@@ -18,5 +18,12 @@ print("Quel est ton chiffre pref ?")
 chiffre = int(input())
 if chiffre != 3:
     print("m'en fous")
-else :
+else:
     print("MAIS NON COMME MOI")
+
+print("Est-tu Eric Zemmour ?")
+eric = bool(input())
+if eric:
+    print("ba t pas gentil")
+else:
+    print("bravo comme christine")
